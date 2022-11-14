@@ -1,4 +1,3 @@
-Teste de alteração
 git init
 git add "nome_arquivo"
 git add . (todos modificados e adiciona)
