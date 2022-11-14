@@ -5,3 +5,6 @@ git add . (todos modificados e adiciona)
 git commit -m "Tutorial Git"
 git status
 git push (sincroniza tudo para o github)
+git clone link (cria um rep. local cópia do rep. remoto)
+git remote show origin (verifica se o rep local está atualizado com rep remoto)
+git pull (atualiza rep local com as ultimas info do rep remoto)
