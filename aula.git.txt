@@ -2,3 +2,6 @@ Teste de alteração
 git init
 git add "nome_arquivo"
 git add . (todos modificados e adiciona)
+git commit -m "Tutorial Git"
+git status
+git push (sincroniza tudo para o github)
